@@ -1,0 +1,6 @@
+/home/rossella/Documents/Microservizi/Microservizi/Prestiti/src/main/java/biblioteca/entities/Prestiti.java
+/home/rossella/Documents/Microservizi/Microservizi/Prestiti/src/main/java/biblioteca/PrestitiApplication.java
+/home/rossella/Documents/Microservizi/Microservizi/Prestiti/src/main/java/biblioteca/services/PrestitiService.java
+/home/rossella/Documents/Microservizi/Microservizi/Prestiti/src/main/java/biblioteca/repos/PrestitiDAO.java
+/home/rossella/Documents/Microservizi/Microservizi/Prestiti/src/main/java/biblioteca/integration/PrestitiREST.java
+/home/rossella/Documents/Microservizi/Microservizi/Prestiti/src/main/java/biblioteca/services/PrestitiServiceImpl.java

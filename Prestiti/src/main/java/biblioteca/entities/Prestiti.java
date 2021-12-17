@@ -1,14 +1,8 @@
 package biblioteca.entities;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
 
-@Entity
 public class Prestiti implements Comparable<Prestiti>{
 
-	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+
 	
 	private String orderId;
 	private String customer;
